@@ -13,3 +13,8 @@
 # OS files
 .DS_Store
 Thumbs.db
+
+# Uploaded profile pictures
+uplouds/*.jpg
+uplouds/*.jpeg
+uplouds/*.png
